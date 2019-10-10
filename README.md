@@ -1,3 +1,4 @@
 1)clone this project 
-2)run npm install
-3)run npm start
+2)cd client-summary
+3)run npm install
+4)run npm start
